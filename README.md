@@ -130,3 +130,4 @@ The dashboard can also be used to **educate drivers and communities** about acci
 * **Power BI portfolio description that impresses recruiters** (very useful if you're applying for **Data Analyst roles**).
 
 # 7. Srceen Shot/ Demos
+![Dashboard Preview].(https://github.com/Adi-hub9/Road-Accidents-Analysis-Dashboard/blob/main/Powerbi-1.png).
